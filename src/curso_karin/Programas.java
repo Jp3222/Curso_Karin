@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package curso_karin;
 
@@ -11,11 +11,10 @@ import java.util.Scanner;
  *
  * @author jp
  */
-public class Curso_Karin {
-
-    //El programa debe guardar, editar,eliminar y
+public class Programas {
+      //El programa debe guardar, editar,eliminar y
     //consultar los registros alojados
-    public static void main(String[] args) {
+    public static void array() {
         //BD
         String[] nombres, edades;
         //puntero de memoria
